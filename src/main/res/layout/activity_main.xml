@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.swipingleftwardappeardeletebutton.MainActivity">
+
+    <com.example.swipingleftwardappeardeletebutton.LinearButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="向左滑动会出现删除按钮"/>
+        <Button
+            android:onClick="showLog"
+            android:background="#A00"
+            android:text="删除"
+            android:layout_width="300px"
+            android:layout_height="wrap_content" />
+    </com.example.swipingleftwardappeardeletebutton.LinearButton>
+</RelativeLayout>

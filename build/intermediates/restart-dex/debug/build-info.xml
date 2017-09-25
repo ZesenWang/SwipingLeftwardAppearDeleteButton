@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="212392077989962"
+    token="-3770294035033369652" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="D:\MyApplication\SwipingLeftwardAppearDeleteButton\build\outputs\apk\SwipingLeftwardAppearDeleteButton-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="212392077989962" >
+        <artifact
+            location="D:\MyApplication\SwipingLeftwardAppearDeleteButton\build\outputs\apk\SwipingLeftwardAppearDeleteButton-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
